@@ -8,6 +8,8 @@ This is a re-work of that project, where I will doing all data exploration, prep
 
 All of this code is 100% mine and will updated as I try to achieve high accuracy with various classifiers.
 
+***data will be hosted on google drive once permission is granted
+
 "Google has collected a series of hand-drawn images corresponding to a number of categories in their *Quick, Draw!* project. 
 We provide a dataset which is a modified subset of this dataset.
 
